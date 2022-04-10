@@ -17,9 +17,8 @@ Created a Body Mass Index calculator. Based on the user’s weight and height it
 * Formatting Strings. 
 * Color literals.
 
-![main screen][<img width="366" alt="Screenshot 2022-04-10 at 22 25 09" src="https://user-images.githubusercontent.com/56184525/162633360-aad7f5b5-3987-4849-9e31-fc2c8dbbc79b.png">
-]
+<img width="366" alt="Screenshot 2022-04-10 at 22 25 09" src="https://user-images.githubusercontent.com/56184525/162633360-aad7f5b5-3987-4849-9e31-fc2c8dbbc79b.png">
 
-![second screen][]<img width="373" alt="Screenshot 2022-04-10 at 22 25 18" src="https://user-images.githubusercontent.com/56184525/162633382-b71a72fb-4836-4fe5-b308-27e0ad301cf7.png">
+<img width="373" alt="Screenshot 2022-04-10 at 22 25 18" src="https://user-images.githubusercontent.com/56184525/162633382-b71a72fb-4836-4fe5-b308-27e0ad301cf7.png">
 
 
