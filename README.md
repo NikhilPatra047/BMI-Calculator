@@ -22,3 +22,4 @@ Created a Body Mass Index calculator. Based on the user’s weight and height it
 <img width="373" alt="Screenshot 2022-04-10 at 22 25 18" src="https://user-images.githubusercontent.com/56184525/162633382-b71a72fb-4836-4fe5-b308-27e0ad301cf7.png">
 
 
+### Note: This project is part of the iOS App development Bootcamp by Angela Yu on UDEMY. I only cloned the skeleton of the project and worked on the project and created a functional app all by myself.
