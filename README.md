@@ -1,17 +1,14 @@
-
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  BMI Calculator
 
-## Our Goal
+## Goal
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+The goal of this tutorial was to learn more about Optionals, solidify understanding of the MVC design pattern and to learn about the concept of Classes. Compared objects of classes with the instances of structs and understood the difference between them.
 
-## What you will create
+## What did I create
 
-By the end of the module, you will have made a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
+Created a Body Mass Index calculator. Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies. 
 
-## What you will learn
+## What did I learn
 
 * How to create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
@@ -20,8 +17,9 @@ By the end of the module, you will have made a Body Mass Index calculator. Based
 * Formatting Strings. 
 * Color literals.
 
+![main screen][<img width="366" alt="Screenshot 2022-04-10 at 22 25 09" src="https://user-images.githubusercontent.com/56184525/162633360-aad7f5b5-3987-4849-9e31-fc2c8dbbc79b.png">
+]
+
+![second screen][]<img width="373" alt="Screenshot 2022-04-10 at 22 25 18" src="https://user-images.githubusercontent.com/56184525/162633382-b71a72fb-4836-4fe5-b308-27e0ad301cf7.png">
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
