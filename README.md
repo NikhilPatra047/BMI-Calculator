@@ -2,7 +2,7 @@
 
 ## Goal
 
-The goal of this tutorial was to learn more about Optionals, solidify understanding of the MVC design pattern and to learn about the concept of Classes. Compared objects of classes with the instances of structs and understood the difference between them.
+The goal of this project was to learn more about Optionals, solidify understanding of the MVC design pattern and to learn about the concept of Classes. Compared objects of classes with the instances of structs and understood the difference between them.
 
 ## What did I create
 
